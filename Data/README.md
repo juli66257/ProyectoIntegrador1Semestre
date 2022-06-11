@@ -1,7 +1,3 @@
-# ProyectoIntegrador 1 Semestre
-Maestria en ciencia de los datos y analitica
-Modelo de predicción de Morosidad
+# Data/
 
-Bedoya Rios Santiago, Peralta Jaramillo Juliana Andrea
-
-Este repositorio contiene el desarrollo y los resultados del proyecto integrador para el semestre 2022-01
+En esta carpeta se alojan los datos originales del problema en cuestión. **Importante:** Los datos procesados se hospedan en el data lake definido para tal fin.
